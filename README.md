@@ -1,83 +1,80 @@
-# 🛍️ Tienda Virtual Kotlin - Sistema de Gestión
+# 🛍️ Kotlin Virtual Store - Management System
 
-Junior Developer: Robert Salazar
-
+## Junior Developer: Robert Salazar
 📱 Platform: Kotlin | ⏳ Status: Production Ready
 
-Un sistema completo de gestión de tienda virtual con control de inventario, procesamiento de pedidos y validaciones robustas, diseñado con principios SOLID y mejores prácticas de desarrollo.
+A complete virtual store management system with inventory control, order processing, and robust validations, designed with SOLID principles and development best practices.
 
-## 🚀 Características Principales
+## 🚀 Key Features
 
-✔ Gestión inteligente de inventario - Control de stock en tiempo real
+✔ Smart inventory management - Real-time stock control
 
-✔ Sistema de pedidos completo - Validaciones y cálculos automáticos
+✔ Complete order system - Automatic validations and calculations
 
-✔ Manejo elegante de errores - Productos no encontrados, stock insuficiente
+✔ Elegant error handling - Products not found, insufficient stock
 
-✔ Arquitectura escalable - Separación clara de responsabilidades
+✔ Scalable architecture - Clear separation of responsibilities
 
-✔ API fluida y expresiva - Fácil integración y uso intuitivo
+✔ Fluid and expressive API - Easy integration and intuitive use
 
-## 🛠 Stack Tecnológico
+## 🛠 Technology Stack
 
-- Categoría	Tecnologías
-- Lenguaje	Kotlin
-- Arquitectura	Programación Orientada a Objetos + SOLID
-- Validaciones	require() blocks + manejo defensivo
-- Estructuras	MutableList + funciones de extensión
-- Formatos	String templates + number formatting
+Language -> Kotlin
+
+Architecture -> Object-Oriented Programming + SOLID
+
+Validations	-> require() blocks + defensive handling
+
+Structures -> MutableList + extension functions
+Formats -> String templates + number formatting
+
+## 🎯 Technical Value of the Project
+
+5 Key Points Demonstrating My Approach:
+
+### 🔒 Robust Validations
+require() and init blocks ensuring data integrity at all times
+
+### 🏗️ SOLID Architecture
+Clear separation of responsibilities between entities and components
+
+### 🛡️ Defensive Code
+Proactive handling of edge cases (stock, products not found)
+
+### 📐 Strategic Immutability
+Use of val for data that shouldn't mutate, ensuring consistency
+
+### 🎯 Expressive API
+Fluid design with intuitive functions like buscarYAgregar()
+
+## 📊 Skills Demonstration
+
+### Technical Skill
+
+- Mastery of Kotlin and OOP with complex business logic implementation
+- Controlled state management and properly managed side effects
+- Precise financial calculations with professional value formatting
+### Critical Thinking
+
+- Intuitive APIs that elegantly solve real problems
+- Anticipation of edge cases with proactive handling of problematic scenarios
+### Code Quality
+
+- Self-documented and easy-to-maintain code
+- Structure prepared for testing and future extensibility
   
-## 🎯 Valor Técnico del Proyecto
+## 👨‍💻 About the Developer
 
-5 Puntos Clave que Demuestran Mi Enfoque:
+Robert Salazar - Passionate Junior Developer with meticulous focus on writing clean, maintainable, and well-structured code. Committed to quality software development and continuous learning.
 
-- 🔒 Validaciones Robusta
-require() e init blocks que garantizan integridad de datos en todo momento
+My philosophy: Clean code over clever code, robust validations from the start, and architecture that scales.
 
-- 🏗️ Arquitectura SOLID
-Separación clara de responsabilidades entre entidades y componentes
+## 📞 Let's Connect
 
-- 🛡️ Código Defensivo
-Manejo proactivo de edge cases (stock, productos no encontrados)
-
-- 📐 Inmutabilidad Estratégica
-Uso de val para datos que no deben mutar, asegurando consistencia
-
-- 🎯 API Expresiva
-Design fluido con funciones intuitivas como buscarYAgregar()
-
-
-## 📊 Demostración de Habilidades
-
-- Habilidad Técnica
-Dominio de Kotlin y POO con implementación de lógica de negocio compleja
-
-Manejo de estado controlado y efectos secundarios gestionados adecuadamente
-
-Cálculos financieros precisos con formateo profesional de valores
-
-- Pensamiento Crítico
-APIs intuitivas que resuelven problemas reales de forma elegante
-
-Anticipación de casos edge con manejo proactivo de escenarios problemáticos
-
-- Calidad de Código
-Código auto-documentado y fácil de mantener
-
-Estructura preparada para testing y extensibilidad futura
-
-## 👨‍💻 Sobre el Desarrollador
-
-Robert Salazar - Junior Developer apasionado con enfoque meticuloso en escribir código limpio, mantenible y bien estructurado. Comprometido con el desarrollo de software de calidad y el aprendizaje continuo.
-
-Mi filosofía: Código limpio sobre código clever, validaciones robustas desde el inicio, y arquitectura que escala.
-
-## 📞 Conectemos
-
-💼 LinkedIn. https://www.linkedin.com/in/robert-salazar-630250360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+💼 LinkedIn: https://www.linkedin.com/in/robert-salazar-630250360?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 
 📧 Email: robl.sala25@gmail.com
 
-¿Buscas un Junior Developer con atención al detalle y pasión por el código limpio? ¡Hablemos!
+Looking for a Junior Developer with attention to detail and passion for clean code? Let's talk!
 
-Demuestro que priorizo código limpio y arquitectura sólida, incluso en proyectos de aprendizaje.
+I demonstrate that I prioritize clean code and solid architecture, even in learning projects.
